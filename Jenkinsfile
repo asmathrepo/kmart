@@ -74,7 +74,7 @@ pipeline {
     
     stages {
         
-        stage('SCM Checkout'){
+        stage('SCM code Checkout'){
             
         steps {
             echo "Checking out the code from SCM"
