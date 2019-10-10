@@ -145,7 +145,7 @@ pipeline {
             
             steps {
                 
-                echo "Entering into the approval step for deploying the output .dll files to the target Environment"
+                echo "Entering into the approval step for deploying the output binary .dll files to the target Environment"
                 
                 script {
                 def userInput = false
