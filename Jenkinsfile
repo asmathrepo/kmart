@@ -78,6 +78,7 @@ pipeline {
             
         steps {
             echo "Checking out the code from SCM"
+	    echo "cloning the repository"
             
             checkout([$class: 'GitSCM', 
             branches: [[name: '*/master']], 
