@@ -78,7 +78,7 @@ pipeline {
             
         steps {
             echo "Checking out the code from SCM"
-	    echo "cloning the repository frpm git ,.."
+	    echo "cloning the repository frpm git and adding the last commited changes,.."
 		
             
             checkout([$class: 'GitSCM', 
