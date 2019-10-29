@@ -1,6 +1,6 @@
 ### ABC Rent-A-Car
 Computes the cost of renting a car from ABC Company given its brand, and the number of days and mileage used.
-
+%%%
 ### GPA Calculator
 Calculates the GPA using the number of units for a given course and your corresponding grade.
 
