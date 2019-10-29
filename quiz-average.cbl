@@ -1,4 +1,6 @@
        IDENTIFICATION DIVISION.
+      
+      
        PROGRAM-ID. AVERAGE.
        
        DATA DIVISION.
